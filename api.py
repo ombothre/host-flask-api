@@ -19,7 +19,8 @@ def home():
 def predict():
     data = request.get_json(force=True)
 
-    x = data['input']
+    input = data['input']
+    x = [input['gender'], input['age'], input['salary']]
 
     #preprocessing on predicting data
 
