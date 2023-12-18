@@ -4,7 +4,7 @@ This project is an improvement upon the Flask API - https://github.com/sankari-h
 
 ## API Endpoint
 
-The Flask API is hosted at [https://om1024.pythonanywhere.com/predict](https://om1024.pythonanywhere.com/predict).
+The Flask API is hosted at [https://om1024.pythonanywhere.com/predict](https://om1024.pythonanywhere.com/).
 
 ## Usage
 
