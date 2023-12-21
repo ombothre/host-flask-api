@@ -1,12 +1,13 @@
 # Improved Flask API
 
-This project is an improvement upon the Flask API - https://github.com/sankari-hacker/flask-api , now hosted on PythonAnywhere.
+This project is an improvement upon the [local svm api] (https://github.com/ombothre/flask-api), now hosted on [PythonAnywhere](https://om1024.pythonanywhere.com/).
 
 ## API Endpoint
 
 The Flask API is hosted  [here](https://om1024.pythonanywhere.com/).
 
 [!NOTE]
+
 Route `/predict` is to be used directly to post request and for exploring go to route `/`
 
 ## Usage
