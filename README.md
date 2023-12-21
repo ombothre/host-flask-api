@@ -6,8 +6,8 @@ This project is an improvement upon the [local svm api](https://github.com/ombot
 
 The Flask API is hosted [here](https://om1024.pythonanywhere.com/).
 
-**Note**
-Route `/predict` is to be used directly to post request and for exploring go to route `/`
+>[!NOTE]
+>Route `/predict` is to be used directly to post request and for exploring go to route `/`
 
 ## Usage
 
